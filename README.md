@@ -1,1 +1,1 @@
-PowerBI Project about calculation and vidualizing transport efficiency.
+PowerBI Project about calculation and visualizing transport efficiency.
